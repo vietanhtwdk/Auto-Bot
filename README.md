@@ -14,7 +14,7 @@ Main features:
 ## Getting Started
 ### Installation
 #### Download
-Check release page: 
+Check release page: https://github.com/vietanhtwdk/Auto-Bot/releases
 #### Build locally
 1. Install golang 1.20+ https://go.dev/
 2. Install fyne2 https://fyne.io/
